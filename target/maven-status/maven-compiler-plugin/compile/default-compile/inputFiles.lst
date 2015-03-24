@@ -1,0 +1,8 @@
+/Users/ludovicchaboud/Code/workspace_cloud/dropwizard_hello/src/main/java/org/demo/core/User.java
+/Users/ludovicchaboud/Code/workspace_cloud/dropwizard_hello/src/main/java/org/demo/HelloWorldConfiguration.java
+/Users/ludovicchaboud/Code/workspace_cloud/dropwizard_hello/src/main/java/org/demo/resources/HelloWorldResource.java
+/Users/ludovicchaboud/Code/workspace_cloud/dropwizard_hello/src/main/java/org/demo/cli/RenderCommand.java
+/Users/ludovicchaboud/Code/workspace_cloud/dropwizard_hello/src/main/java/org/demo/core/Saying.java
+/Users/ludovicchaboud/Code/workspace_cloud/dropwizard_hello/src/main/java/org/demo/core/Template.java
+/Users/ludovicchaboud/Code/workspace_cloud/dropwizard_hello/src/main/java/org/demo/health/TemplateHealthCheck.java
+/Users/ludovicchaboud/Code/workspace_cloud/dropwizard_hello/src/main/java/org/demo/HelloWorldApplication.java
