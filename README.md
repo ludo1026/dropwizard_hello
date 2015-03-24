@@ -49,3 +49,6 @@ To test the example application run the following commands.
 	curl -H "Content-Type: application/json" -X POST -d '{"fullName":"Other Person","jobTitle":"Other Title"}' http://localhost:8080/people
 	
 	open http://localhost:8080/people
+=======
+# dropwizard_hello
+Dropwizard - Hello
